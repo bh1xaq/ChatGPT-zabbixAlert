@@ -1,4 +1,4 @@
-# ChatGPT-zabbixAlart
+# ChatGPT-zabbixAlert
 
 让 OpenAI 为 Zabbix 告警提出修复建议
 
