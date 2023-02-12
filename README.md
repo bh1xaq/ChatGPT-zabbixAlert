@@ -2,6 +2,8 @@
 
 让 OpenAI 为 Zabbix 告警提出修复建议
 
+![Demo](images/20230212103622.png)
+
 # 食用指南
 
 详见[将 ChatGPT 接入 Zabbix，为告警提供修复建议](https://www.txisfine.cn/archives/9c078bb7.html)
