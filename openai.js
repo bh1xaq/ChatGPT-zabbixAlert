@@ -37,7 +37,7 @@ module.exports = async function (params, context) {
     console.log('Received params:', params);
     if (params.zakey == process.env.ZAKEY) {
         // 鉴权成功，处理问题
-        res = getOpenAIReply(params.quesion)
+        res = await getOpenAIReply(params.quesion)
         return {
             message: res
         }
